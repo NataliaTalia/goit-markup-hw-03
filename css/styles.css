@@ -57,7 +57,7 @@ ul {
 
 .header {
   
-  border-bottom: 1px solid var(--main-brand-color);
+  border-bottom: 1px solid #ECECEC;
 }
 
 .header-container {
@@ -307,6 +307,7 @@ ul {
 
 
 .team-content {
+  background-color: var(--primary-white-color);
   padding-top: 30px;
   padding-bottom: 30px;
   text-align: center;
